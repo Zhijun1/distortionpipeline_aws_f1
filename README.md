@@ -20,8 +20,18 @@ Then, install Vitis Accelerated Libraries in your Vitis IDE. Since Vitis 2020.1 
 2. Click **Download** button to get a local copy of the GitHub repository
 
 <p align="middle">
-<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/download_libs.png" alt="download_libs"  width="900" height="340">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/download_libs.png" alt="download_libs"  width="900" height="410">
 </p>
+
+3. After a few seconds the libraries are installed. Note the branch used and the local directory where the libraries are installed
+
+<p align="middle">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/installation_path.png" alt="installation_path"  width="900" height="410">
+</p>
+
+
+
+
 
 
 * Follow this [tutorial](https://xilinx.github.io/xup_compute_acceleration/Vitis_intro-1.html) to create a new Vitis project
