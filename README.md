@@ -103,7 +103,7 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 5. Click **Finish**
 6. Explore the project and notice that source code and Hardware functions are automatically included
 
-## Very Important
+## Step 7 below is very Important
 
 7. You need to check my previous Barrel undistortaion site in order to change the codes of the refernece design
 
