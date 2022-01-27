@@ -86,7 +86,7 @@ gedit ~/.Xilinx/Vitis/2021.1/vitis_libraries/vision/library.json &
 We have added /usr/include/opencv in the includepaths. We have also removed opencv_videoio and opencv_imgcodecs and include xml2 in libraries
 
 7. Save the file
-8. You can check the edited files [](url)here
+8. You can check the edited files [here](https://github.com/Zhijun1/distortionpipeline_aws_f1/tree/main/docs)
 
 
 
