@@ -14,7 +14,7 @@ Then, install Vitis Accelerated Libraries in your Vitis IDE. Since Vitis 2020.1 
 In Vitis GUI click Xilinx > Libraries...
 
 <p align="left">
-<img src="https://github.com/Hananel-Hazan/bindsnet/blob/master/docs/BindsNET%20benchmark.png" alt="BindsNET%20Benchmark"  width="503" height="403">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/master/img/install_menu.png" alt="install_menu"  width="400" height="250">
 </p>
 
 
