@@ -130,8 +130,8 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 *Note:* 
 
 1. The above undistorted photo is an outcome from my embedded undistortion package as shown in my github. The AWS F1 instance generates the following gray-level photo after step 7 modification which was based on the codes saved in my laptop (I believe if you modify the original stereopipeline code based on the embedded undistortion package in my github, your modified package may generate the coloured undistorted photo). I simply do not have enough time to modify the code again. 
-2. 
-3. The analysis of the software emulation shows the time for the undistortion is around 2500ms, while the hardware emulation shows the time for the undistortion is around only 5ms. A more detailed estimation of the time and resources will be added in the future. 
+
+2. The analysis of the software emulation shows the time for the undistortion is around 2500ms, while the hardware emulation shows the time for the undistortion is around only 5ms (both in the case that the output photo is gray level). A more detailed estimation of the time and resources will be added in the future. 
 
 <p align="middle">
 <img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_output.png" alt="hls_output"  width="720" height="540">
