@@ -1,5 +1,5 @@
 ## distortionpipeline_aws_f1
-This project is to show case a sample Xilinx Vitis project running on AWS F1 instance. This is a continuation of my previous work of the same nature but being implemented on the Xilinx embedded platform (e.g., ZCU104 etc.). In this project, I simply transplant the previous work to the AWS F1 cloud computing platform, which runs **Vitis 2021.1**. I am grateful to the organisers of the 2022 XACC Winter School, in particular, Mario and Cathal, for their kind help.
+This project is to show case a sample Xilinx Vitis project running on AWS F1 instance. This is a continuation of [my previous work](https://github.com/Zhijun1/distortionpipeline) of the same nature but being implemented on the Xilinx embedded platform (e.g., ZCU104 etc.). In this project, I simply transplant the previous work to the AWS F1 cloud computing platform, which runs **Vitis 2021.1**. I am grateful to the organisers of the 2022 XACC Winter School, in particular, Mario and Cathal, for their kind help.
 
 ## Create a Vitis project
 
@@ -105,7 +105,7 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 
 ## Step 7 below is very Important
 
-7. You need to check my previous Barrel undistortaion site in order to change the codes of the refernece design
+7. You need to check [my previous Barrel undistortaion site](https://github.com/Zhijun1/distortionpipeline) in order to change the codes of the refernece design
 
 
 8. Build **Emulation-Software**
