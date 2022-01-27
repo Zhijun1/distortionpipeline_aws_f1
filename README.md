@@ -126,6 +126,16 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 <p align="middle">
 <img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_out.png" alt="hls_out"  width="720" height="540">
 </p>
+
+*Note:* 
+The above undistorted photo is an outcome from my embedded undistortion package as shown in my github. The AWS F1 instance generates the following gray-level photo after step 7 modification which was based on the codes saved in my laptop (I believe if you modify the original stereopipeline code based on the embedded undistortion package in my github, your modified package may generate the coloured undistorted photo). I simply do not have enough time to modify the code again. 
+
+<p align="middle">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_output.png" alt="hls_output"  width="720" height="540">
+</p>
+
+
+
  
 
 
