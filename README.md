@@ -97,11 +97,22 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 3. Give an Application Project name like, **distortion** and click **Next**
 4. Expand **Vitis Vision Library > L3 > examples** and select **Xilinx Stereopipeline L3 Test** (the following figure is for illustration purpose and the file selected is not correct)
 <p align="middle">
-<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/installation_path.png" alt="installation_path"  width="900" height="440">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/thr_app.png" alt="thr_app"  width="900" height="440">
 </p>
 
+5. Click **Finish**
+6. Explore the project and notice that source code and Hardware functions are automatically included
+
+#Very Important#
+**7. You need to check my previous Barrel undistortaion site in order to change the codes of the refernece design**
 
 
+8. Build **Emulation-Software**
+9. Run Emulation-SW by using ```Run > Run Configurations```... This is to verify the design logic, you can also check the run time of a CPU.
+
+10. Then you should subsequently build **Emulation-Hardware**, and run it. This is to estimate the resources and time. The process takes about 10 minutes.
+11. Then you should build **Hardwar**, and run it. This is to implement the project on the cloud hardware. The compilation process takes about 2 hours.
+ 
 
 
 
