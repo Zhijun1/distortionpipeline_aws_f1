@@ -113,6 +113,19 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 
 10. Then you should subsequently build **Emulation-Hardware**, and run it. This is to estimate the resources and time. The process takes about 10 minutes.
 11. Then you should build **Hardwar**, and run it. This is to implement the project on the cloud hardware. The compilation process takes about 2 hours.
+
+# Outcome
+1. The original photo from a fisheye camera with Barrel distortion
+
+<p align="middle">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/frame_distorted.png" alt="frame_distorted"  width="720" height="540">
+</p>
+
+2. The undistorted photo
+
+<p align="middle">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_output.png" alt="hls_output"  width="720" height="540">
+</p>
  
 
 
