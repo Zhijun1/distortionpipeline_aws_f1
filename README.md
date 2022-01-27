@@ -124,7 +124,7 @@ Now we are ready to take reference of the Stereopipline example in Vitis L3 libr
 2. The undistorted photo
 
 <p align="middle">
-<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_output.png" alt="hls_output"  width="720" height="540">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/hls_out.png" alt="hls_out"  width="720" height="540">
 </p>
  
 
