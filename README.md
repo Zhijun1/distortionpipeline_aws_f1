@@ -88,6 +88,17 @@ We have added /usr/include/opencv in the includepaths. We have also removed open
 7. Save the file
 8. You can check the edited files [here](https://github.com/Zhijun1/distortionpipeline_aws_f1/tree/main/docs)
 
+***Create Vitis application using the library***
+
+Now we are ready to take reference of the Stereopipline example in Vitis L3 library for implementing the Barrel undistortion of the fisheye camera images. 
+
+1. In Vitis GUI select **Create Application Project**
+2. Select **AWS F1 platform** and click **Next **
+3. Give an Application Project name like, **distortion** and click **Next**
+4. Expand **Vitis Vision Library > L3 > examples** and select **Xilinx Stereopipeline L3 Test** (the following figure is for illustration purpose and the file selected is not correct)
+<p align="middle">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/installation_path.png" alt="installation_path"  width="900" height="440">
+</p>
 
 
 
