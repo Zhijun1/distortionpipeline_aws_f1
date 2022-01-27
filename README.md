@@ -11,10 +11,16 @@ sudo yum install opencv opencv-core opencv-devel opencv-python libxml2 libxml2-d
 ```
 Then, install Vitis Accelerated Libraries in your Vitis IDE. Since Vitis 2020.1 the [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries) can be installed directly from the GUI.
 
-In Vitis GUI click Xilinx > Libraries...
+1. In Vitis GUI click Xilinx > Libraries...
 
 <p align="left">
 <img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/install_menu.png" alt="install_menu"  width="400" height="210">
+</p>
+
+2. Click **Download** button to get a local copy of the GitHub repository
+
+<p align="left">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/download_libs.png" alt="download_libs"  width="900" height="340">
 </p>
 
 
