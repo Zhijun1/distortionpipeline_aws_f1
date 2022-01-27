@@ -19,7 +19,7 @@ Then, install Vitis Accelerated Libraries in your Vitis IDE. Since Vitis 2020.1 
 
 2. Click **Download** button to get a local copy of the GitHub repository
 
-<p align="left">
+<p align="middle">
 <img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/download_libs.png" alt="download_libs"  width="900" height="340">
 </p>
 
