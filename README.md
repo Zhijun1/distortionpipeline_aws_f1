@@ -13,8 +13,8 @@ Then, install Vitis Accelerated Libraries in your Vitis IDE. Since Vitis 2020.1 
 
 In Vitis GUI click Xilinx > Libraries...
 
-<p align="middle">
-<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/master/img/install_menu.png" alt="install_menu"  width="400" height="250">
+<p align="left">
+<img src="https://github.com/Zhijun1/distortionpipeline_aws_f1/blob/main/img/install_menu.png" alt="install_menu"  width="400" height="210">
 </p>
 
 
